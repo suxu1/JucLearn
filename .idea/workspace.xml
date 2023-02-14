@@ -1,11 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="546c0128-7c9a-4967-9f0d-2c3d8bca061e" name="变更" comment="" />
+    <list default="true" id="546c0128-7c9a-4967-9f0d-2c3d8bca061e" name="变更" comment="创建项目&#10;提交人: 苏旭&#10;提交日期:2023.02.13">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/callable/CallAbleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/forkJoin/ForkJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lock/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ticketDemo/SaleTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ticketDemo/SaleTicketByLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wait_notify/NoticeByCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wait_notify/NoticeOneByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wait_notify/ThreadNotice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wait_notify/ThreadNoticeByLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="st" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/openSource/java-se-8u41-ri/src.zip!/java/util/concurrent/Executor.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/openSource/java-se-8u41-ri/src.zip!/java/util/concurrent/ExecutorService.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/openSource/java-se-8u41-ri/src.zip!/java/util/concurrent/Executors.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/openSource/java-se-8u41-ri/src.zip!/java/util/concurrent/ForkJoinPool.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/openSource/java-se-8u41-ri/src.zip!/java/util/concurrent/Semaphore.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/openSource/java-se-8u41-ri/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LfRHNdI82KqEeyBy7m410gAwGZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +59,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/programs/CGW&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.CallAbleTest">
+    <configuration name="CallAbleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.callable.CallAbleTest" />
+      <module name="JucLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.callable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lock.DeadLock" />
+      <module name="JucLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForkJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.forkJoin.ForkJoinDemo" />
+      <module name="JucLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.forkJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoticeOneByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.wait_notify.NoticeOneByOne" />
+      <module name="JucLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.wait_notify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.pool.ThreadPoolDemo" />
+      <module name="JucLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -28,18 +152,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676260062712</updated>
+      <workItem from="1676260064347" duration="13913000" />
+      <workItem from="1676345122743" duration="10016000" />
     </task>
+    <task id="LOCAL-00001" summary="创建项目&#10;提交人: 苏旭&#10;提交日期:2023.02.13">
+      <created>1676260223848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676260223848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建项目&#10;提交人: 苏旭&#10;提交日期:2023.02.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建项目&#10;提交人: 苏旭&#10;提交日期:2023.02.13" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
